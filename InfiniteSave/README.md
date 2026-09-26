@@ -12,7 +12,6 @@ You still need to actually save to a disc the normal way (insert a disk, use the
 Found in `BepInEx/config/amione.InfiniteSave.cfg` after the first run (or in the in-game Mods menu if you have WKModMenu installed):
 
 - **InfiniteDiscSaves** (default: `true`) - master on/off switch.
-- **NotifyInConsole** (default: `true`) - prints a small message in the dev console every time a disc save gets protected.
 
 ## Installation
 
