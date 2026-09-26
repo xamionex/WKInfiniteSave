@@ -5,7 +5,7 @@
         <AssemblyName>amione.InfiniteSave</AssemblyName>
         <Product>InfiniteSave</Product>
         <ProductDescription>Makes disc saves in White Knuckle last forever - loading from one never uses it up.</ProductDescription>
-        <Version>1.0.1</Version>
+        <Version>1.0.2</Version>
         <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
         <LangVersion>latest</LangVersion>
         <RestoreAdditionalProjectSources>
